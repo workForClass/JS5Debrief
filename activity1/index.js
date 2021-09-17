@@ -1,67 +1,82 @@
-//Your code goes here
+// BASIC SYNTAX
+// Selectors: 
+let elementName = document.querySelector("#elementId")
+// Functions
+function functionName() {
+  // do something here
+ 
+}
+// Call the event with an event listener
+elementName.addEventListener("onclick", functionName);
 
-// 1. Click the button to display your name
-//Selectors
+// 1. DISPLAY NAME
+// Click the button to display your name in the box
+// (Tip: in this example, you will hard code your name within the JavaScript function, rather than use the input box to grab it).
 
-//Function
+// Selectors
 
-//Call the event
+// Function
 
-//2. Switch lights on mouseover
-//Selectors
+// Call the event
 
-//Function
+// 2. LIGHTSWITCH
+// Switch lights on mouseover
+// When the mouse cursor is on the lightbulb image, the lighton image should show; and revert back to the lightoff image when the mouse moves off.
 
-//Call the event
+// Selectors
 
-//3. Double click to display content
-//Selectors
+// Function
 
-/*Function {
+// Call the event
+
+// 3. Double click button to display content
+// Selectors
+
+/* Function {
   //some code here
   //create a new img element
 }*/
 
-//Call the event
+// Call the event
 
 // 4. Traffic Lights
-//Selectors
+// Selectors
 
-//Function 1
-//Function 2
-//Function 3
+// Function 1
+// Function 2
+// Function 3
 
-//Call the events
+// Call the events
 
-//5. Change textbox border colours
-//Selectors
+// 5. Change textbox border colours
+// Selectors
 
-//Function
+// Function
 
-//Call the event
+// Call the event
 
-//6. validate the box [length should be more than 5 characters]
-//Selectors
+// 6. Validate the input [length should be more than 5 characters]
+// Selectors
 
 /*Function {
   //if statement
 }*/
 
-//Call the event
+// Call the event
 
 // 7.create a list of hobbies
-//Selectors
+// Selectors
 
 /*Function {
   //for loop
 }*/
 
-//Call the event
+// Call the event
 
 // 8. Display a profile card from an object
 //Object
 
-//Selectors
+// Selectors
 
 /*Function {
     //for loop
